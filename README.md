@@ -11,7 +11,7 @@ L'obiettivo del progetto è creare un database per la gestione dei ticket effett
 ## Documentazione 
 
 - [Documentazione](./Documentation/Documentazione.pdf)
-- [Database](./Database/progetto.sql)
+- [Database](./Database/Progetto.sql)
 
 ## Requisiti
 
